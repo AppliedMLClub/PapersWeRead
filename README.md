@@ -10,7 +10,7 @@ papers to read and videos to view
 - **Open problems in deep learning: A Bayesian solution** // Dmitry P. Vetrov (доклад видимо потому что нет такого пейпера) (https://sdsj.ru/ru/slides/8_Vetrov.pdf)
 - Есть рядом пейпер с NIPS 2016 года на похожую тему **Open Problems for Online Bayesian Inference in
 Neural Networks** (http://bayesiandeeplearning.org/2016/papers/BDL_42.pdf)
-- 
+- **The Unreasonable Effectiveness of Recurrent Neural Networks** // A. Karpathy (http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (закреплена за github.com/metya)
 - 
 
 
