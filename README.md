@@ -11,7 +11,7 @@ papers to read and videos to view
 - Есть рядом пейпер с NIPS 2016 года на похожую тему **Open Problems for Online Bayesian Inference in
 Neural Networks** (http://bayesiandeeplearning.org/2016/papers/BDL_42.pdf)
 - **The Unreasonable Effectiveness of Recurrent Neural Networks** // A. Karpathy (http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (закреплена за github.com/metya)
-- 
+- **Tacotron 2: Generating Human-like Speech from Text** // Jonathan Shen and Ruoming Pang (https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
 
 
 
